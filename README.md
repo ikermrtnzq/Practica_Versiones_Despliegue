@@ -4,6 +4,7 @@ Esta es una practica de despliegue para mostrar conocimientos acerca del control
 ## Tecnologías Utilizadas
 * HTML5 y CSS3
 * Git para control de versiones
+* XAMMP para desplegar
 
 ## Instalación (Uso local)
 1. Clona el repositorio: `git clone [URL del repo]`
