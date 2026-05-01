@@ -20,3 +20,12 @@ Para desplegar e proyecto solo necesitas clonar este repositorio en una carpeta 
 Luego inicar Apache por medio de XAMPP
 
 Por ultimo utilizar la ruta http://localhost/{nombreCarpeta}/Practica_Versiones_Despliegue
+
+
+## Estructura del proyecto
+Practica_Versiones_Despliegue
+    |
+    |
+    |- index.html
+    |- style.css
+    |_ README.md
